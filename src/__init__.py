@@ -1,1 +1,1 @@
-from health_ping import HealthPingFilter
+from .health_ping import HealthPingFilter
