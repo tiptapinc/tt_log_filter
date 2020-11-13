@@ -12,6 +12,5 @@ setup(
     version=open('VERSION').read().strip(),
     author='TipTap',
     install_requires=[],
-    package_dir={'tt_log_filter': 'src'},
     packages=['tt_log_filter']
 )
